@@ -1,8 +1,9 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout<<"Made changes to file."<<std::endl;
+    cout<<"Made changes to file."<< endl;
+    cout << "Me too";
 
     return 0;
 }
